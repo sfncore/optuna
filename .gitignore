@@ -134,3 +134,12 @@ dask-worker-space/
 
 # PyTorch Lightning
 lightning_logs/
+
+# Gas Town (added by gt)
+.runtime/
+.claude/commands/
+.logs/
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
